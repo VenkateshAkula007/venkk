@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-example" />
+        <module name="spring-verticle-factory" />
+        <module name="springboot-clustering-hazelcast" />
+        <module name="springboot-example" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-example" target="1.8" />
+      <module name="spring-examples" target="1.5" />
+      <module name="spring-verticle-factory" target="1.8" />
+      <module name="springboot-clustering" target="1.5" />
+      <module name="springboot-clustering-hazelcast" target="1.8" />
+      <module name="springboot-example" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-example/spring-example.iml" filepath="$PROJECT_DIR$/spring-example/spring-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-examples.iml" filepath="$PROJECT_DIR$/spring-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-verticle-factory/spring-verticle-factory.iml" filepath="$PROJECT_DIR$/spring-verticle-factory/spring-verticle-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-clustering/springboot-clustering.iml" filepath="$PROJECT_DIR$/springboot-clustering/springboot-clustering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-clustering/springboot-clustering-hazelcast/springboot-clustering-hazelcast.iml" filepath="$PROJECT_DIR$/springboot-clustering/springboot-clustering-hazelcast/springboot-clustering-hazelcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-example/springboot-example.iml" filepath="$PROJECT_DIR$/springboot-example/springboot-example.iml" />
+    </modules>
+  </component>
+</project>
